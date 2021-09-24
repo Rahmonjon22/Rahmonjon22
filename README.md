@@ -1,16 +1,20 @@
-### Hi there 👋
+👋 Hello, I'm Rahmonjon Ibragimov!
+I am passionate about creating projects that are clean and careful in detail.
 
-<!--
-**Rahmonjon22/Rahmonjon22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
-Here are some ideas to get you started:
+😄 A little about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am from Uzbekistan.
+I’m currently working on my final project at the Digital Career Institute (DCI) in Germany 🇩🇪.
+I also speak several languages such as English, German, Russian, Turkish and Uzbek.
+I’m looking to collaborate and learn everyday new things, so let's talk, I am always happy to meet new challeges. 👍
+How to reach me: rahmonjon2@yahoo.com
+Tech Stack
+Git GitHub Markdown
+
+HTML5 CSS SASS Bootstrap
+
+JavaScript Node.js React Express
+
+MongoDB
