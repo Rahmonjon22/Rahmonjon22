@@ -5,7 +5,7 @@ I am passionate about creating projects that are clean and careful in detail.
 <a href="https://www.linkedin.com/in/rahmonjon-john-ibragimov-b03635203/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
 </a>  
-<a href="https://github.com/Rahmonjon22"  target="_blank">
+<a href="https://rahmonjon22.github.io/portfolio/"  target="_blank">
   <img src="https://img.shields.io/badge/-Portfolio-grey?style=flat&logo=appveyor&logoColor=white" />
 </a>
 </p>
