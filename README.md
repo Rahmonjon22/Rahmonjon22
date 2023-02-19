@@ -1,4 +1,18 @@
 <h2> Hey there, I'm Jon Ibragimov!</h2>
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://ibragimov.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-DC4C51?style=for-the-badge&logo=Google-chrome&logoColor=white" />
+</a>
+  <a href="mailto:rahmonjon2@yahoo.com" target="_blank">
+  <img src="https://img.shields.io/badge/mail-green?style=for-the-badge&logo=icloud&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/rahmonjon-john-ibragimov-b03635203/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -21,7 +35,9 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  <img width src="./sanityy.png" height="20"/>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -35,29 +51,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="https://ibragimov.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-DC4C51?style=for-the-badge&logo=Google-chrome&logoColor=white" />
-</a>
-  <a href="mailto:rahmonjon2@yahoo.com" target="_blank">
-  <img src="https://img.shields.io/badge/mail-green?style=for-the-badge&logo=icloud&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/rahmonjon-john-ibragimov-b03635203/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
-</p>
 
----
-
-<div align="center">
-<a href="https://github.com/awartanian/github-readme-stats">
-  <img width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=awartanian&count_private=true&show_icons=true&bg_color=66000000&text_color=5D6D7E&title_color=0078FF&border_color=66000000&custom_title=GitHub Stats" />
-</a>
-
-<a href="https://github.com/awartanian/github-readme-stats">
-  <img card_width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awartanian&layout=compact&bg_color=66000000&text_color=5D6D7E&title_color=0078FF&border_color=66000000&langs_count=4" />
-</a> 
-</div>
