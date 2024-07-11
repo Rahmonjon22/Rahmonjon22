@@ -16,7 +16,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🧐 &nbsp; Motivated, self-driven and loving my new found passion in coding.
+- 🧐 &nbsp; Motivated and Self-Driven Developer.
 - 🎓 &nbsp; Completed a full-stack web development course at DCI Digital Career Institute gGmbH.
 - 🌱 &nbsp; Worked as Junior Frontend Developer at <a href="https://www.planted.green/" target="_blank">Planted Green </a> in Köln 🇩🇪
 - 🌱 &nbsp; Worked as a Frontend Developer at <a href="https://www.brunsdigital.de/" target="_blank">Bruns Digital</a> in Minden 🇩🇪
@@ -37,6 +37,8 @@
 
 ![Webflow](https://img.shields.io/badge/webflow-%230080FF.svg?style=for-the-badge&logo=webflow&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -60,10 +62,3 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-
-
-
-
