@@ -19,7 +19,8 @@
 - 🧐 &nbsp; Motivated, self-driven and loving my new found passion in coding.
 - 🎓 &nbsp; Completed a full-stack web development course at DCI Digital Career Institute gGmbH.
 - 🌱 &nbsp; Worked as Junior Frontend Developer at <a href="https://www.planted.green/" target="_blank">Planted Green </a> in Köln 🇩🇪
-- 🌱 &nbsp; Working as a Frontend Developer at <a href="https://www.brunsdigital.de/" target="_blank">Bruns Digital</a> in Minden 🇩🇪
+- 🌱 &nbsp; Worked as a Frontend Developer at <a href="https://www.brunsdigital.de/" target="_blank">Bruns Digital</a> in Minden 🇩🇪
+- 🌱 &nbsp; Working as a Full-Stack Developer at <a href="https://www.brunsdigital.de/" target="_blank">Aliaz Werbeagentur</a> in Hagen 🇩🇪
 
 <h3> 🛠 &nbsp;Tech Stacks</h3>
 
