@@ -20,7 +20,7 @@
 - 🎓 &nbsp; Completed a full-stack web development course at DCI Digital Career Institute gGmbH.
 - 🌱 &nbsp; Worked as Junior Frontend Developer at <a href="https://www.planted.green/" target="_blank">Planted Green </a> in Köln 🇩🇪
 - 🌱 &nbsp; Worked as a Web Developer at <a href="https://aliaz.de/" target="_blank">Aliaz Werbeagentur</a> in Hagen 🇩🇪
-- 🌱 &nbsp; Working as a Full-Stack Developer at <a href="https://aliaz.de/" target="_blank">Aliaz Werbeagentur</a> in Hagen 🇩🇪
+- 🌱 &nbsp; Working as a Full-Stack Developer at <a href="https://xmccomputer.net/" target="_blank">XMC Computer</a> in Hagen 🇩🇪
 
 <h3> 🛠 &nbsp;Tech Stacks</h3>
 
