@@ -1,4 +1,4 @@
-<h2> Hey there, I'm Jon Ibragimov!</h2>
+1<h2> Hey there, I'm Jon Ibragimov!</h2>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
@@ -8,7 +8,7 @@
   <a style="margin:30px; hover" href="mailto:rahmonjon2@yahoo.com" target="_blank">
   <img src="https://img.shields.io/badge/mail-green?style=for-the-badge&logo=icloud&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/rahmonjon-john-ibragimov-b03635203/" target="_blank">
+<a href="https://www.linkedin.com/in/rahmonjon-jon-ibragimov-b03635203/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -17,7 +17,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🧐 &nbsp; Motivated and Self-Driven Developer.
-- 🎓 &nbsp; Completed a full-stack web development course at DCI Digital Career Institute gGmbH.
+- 🎓 &nbsp; Completed a full-stack web development course at DCI Digital Career Institute GmbH.
 - 🌱 &nbsp; Worked as Junior Frontend Developer at <a href="https://www.planted.green/" target="_blank">Planted Green </a> in Köln 🇩🇪
 - 🌱 &nbsp; Worked as a Web Developer at <a href="https://aliaz.de/" target="_blank">Aliaz Werbeagentur</a> in Hagen 🇩🇪
 - 🌱 &nbsp; Working as a Full-Stack Developer at <a href="https://xmccomputer.net/" target="_blank">XMC Computer</a> in Rhens 🇩🇪
