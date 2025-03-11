@@ -1,4 +1,4 @@
-1<h2> Hey there, I'm Jon Ibragimov!</h2>
+<h2> Hey there, I'm Jon Ibragimov!</h2>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
